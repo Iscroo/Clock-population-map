@@ -2,7 +2,7 @@
 
 An interactive world map showing which clock every country and region keeps, in **winter** (standard time) and in **summer** (daylight saving time), with every time zone ranked by the number of people living on it.
 
-**Live page:** https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
+**Live page:** https://iscroo.github.io/Clock-population-map/
 
 | Winter | Summer |
 |---|---|
